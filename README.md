@@ -5,7 +5,7 @@ Hi! I'm Aparna Shaju, a dedicated MERN Stack Developer with a strong passion for
 ### 🚀 What I Do
 - 🔧 Build end-to-end web applications using the MERN stack
 - 🎨 Design intuitive and clean UI/UX interfaces
-- 📱 Develop responsive web designs and mobile-first applications
+- 📱 Develop responsive web designs
 - 🌐 Connect front-end interfaces to robust back-end APIs
 - 🧠 Continuously learn and adapt to new technologies
 
@@ -25,3 +25,13 @@ Hi! I'm Aparna Shaju, a dedicated MERN Stack Developer with a strong passion for
 </p>
 
 ---
+
+
+📫 Let's Connect
+📧 Email: aparnakanatil2002@gmail.com
+
+💼 LinkedIn: aparna-shaju
+
+💻 GitHub: @aparnaappu2002
+
+📱 Mobile: +91 7736687228
