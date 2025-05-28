@@ -31,11 +31,10 @@ Hi! I'm Aparna Shaju, a dedicated MERN Stack Developer with a strong passion for
 ---
 
 
-📫 Let's Connect
-📧 Email: aparnakanatil2002@gmail.com
+### 📫 Let's Connect
 
-💼 LinkedIn: aparna-shaju
+- 📧 [Email](mailto:aparnakanatil2002@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aparna-shaju)
+- 💻 [GitHub](https://github.com/aparnaappu2002)
+- 📱 [Call / WhatsApp](tel:+917736687228)
 
-💻 GitHub: @aparnaappu2002
-
-📱 Mobile: +91 7736687228
